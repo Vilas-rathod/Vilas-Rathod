@@ -23,7 +23,7 @@ Tools:      Git | GitHub | Postman | IntelliJ IDEA | VS Code
 - Built with a **microservices architecture**.
 - Features **Keycloak authentication, Razorpay payment integration**, and Docker **deployment**.
 - Tech: **Spring Boot, RabbitMQ, WebSockets, React, MySQL, Docker, Keycloak**.
-- 
+  
 #### 2️⃣ [Full-Stack Monolithic Hotel Booking System (Monolithic-Based)](https://github.com/Vilas-rathod/full-stack-hotel-app.git)
 - **A monolithic full-stack app** with user authentication and hotel/room management.
 - Includes booking, cancellation, and an admin dashboard.
